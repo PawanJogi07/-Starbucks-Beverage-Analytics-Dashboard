@@ -1,4 +1,3 @@
-# -Starbucks-Beverage-Analytics-Dashboard
 
 
 # ☕ Starbucks Beverage Analytics Dashboard
